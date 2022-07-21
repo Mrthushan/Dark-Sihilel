@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
+global.owner = ['+94771018371']
+global.premium = ['94771018371']
+global.ownernomer = '94771018371'
 global.ownername = 'S_I_H_I_L_E_L'
-global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
+global.botname = '❤️☬TRAVEL. BOT☬❤️'
+global.footer = '©THUSHAN.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/KCb5XO0jhm676fNwkJz93o\n\n🔥༺HIRUU༒QUEEN༻🔥'
